@@ -1,0 +1,4 @@
+///สร้าง Objectใช้ { key: value } เช่น user, book
+// ฝฝวนลูปอ่านค่าใน Objectใช้ for...in เพื่อ loop key → user.id, user.name, user.email
+//เข้าถึง property แบบ dot notation → book.name
+//แบบ bracket notation → book["Price"]
